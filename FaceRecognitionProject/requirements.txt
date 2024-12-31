@@ -1,0 +1,17 @@
+ultralytics
+matplotlib
+torch
+torchvision
+face_recognition
+omegaconf
+facetorch
+opencv-python
+openai
+kaggle
+pygwalker
+tensorboard
+scikit-learn
+streamlit
+opencv-python-headless
+dlib
+watchdog
